@@ -1,3 +1,8 @@
+环境：python3.6 7  spark2.4 scala2.11
+# 需要事先将 jar放到spark里面   scala-logging-api_2.10-2.1.2.jar   scala-logging-slf4j_2.10-2.1.2.jar graphframes-0.7.0-spark2.4-s_2.11.jar 
+#pip install graphframes
+
+
 # pyspark_dbscan
 An Implementation of DBSCAN on PySpark
 
